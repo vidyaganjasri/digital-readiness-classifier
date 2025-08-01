@@ -27,9 +27,6 @@ This project predicts the digital transformation readiness of countries using a 
 
 ## Visualizations
 
-### 🔹 Histogram of Features
-![Histogram](histogram.png)
-
 ### 🔹 Urban vs Rural Internet Penetration
 <img width="791" height="467" alt="image" src="https://github.com/user-attachments/assets/66976b3b-9496-43d3-af54-4442acbd7afc" />
 
