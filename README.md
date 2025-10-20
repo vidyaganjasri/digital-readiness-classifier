@@ -1,9 +1,8 @@
 # digital-readiness-classifier
 In today's fast-paced digital world, assessing a country's readiness for digital transformation is critical for effective policy-making and strategic investments. Traditional methods are manual, slow, and lack predictive power. This project was built to solve that — by using machine learning to automatically classify whether a country is **Digitally Ready** or **Not Ready**, based on synthetic data ranging from 2010 to 2025.
 
-Our goal was to build a ** interpretabletool** that can:
+Our goal was to build a tool that can:
 - Help governments identify digitally lagging regions
-- Guide infrastructure rollout decisions (like 5G)
 - Support researchers and planners with actionable digital maturity insights
 
 ---
