@@ -2,13 +2,13 @@
 
 # Classification Modeling Project: Predicting DRS Outcome
 
-## 🎯 Project Overview
+## Project Overview
 
 The core goal of this project was to develop a **robust and highly accurate classification model** to predict the target variable, **DRS**, using key socio-economic indicators such as Education Attainment Index (%) and Internet Penetration (%). The entire process, from data assessment to final validation, was driven by the principle of selecting a model best suited to the data's inherent structure.
 
 ---
 
-## 🔎 Methodology: From Data Structure to Final Model
+## Methodology: From Data Structure to Final Model
 
 ### 1. Data Assessment & Non-Linearity Confirmation
 
@@ -38,7 +38,7 @@ The Random Forest model was then subjected to rigorous checks to ensure its reli
 
 ---
 
-## 💻 Project Files
+## Project Files
 
 The key files detailing the steps in this project are:
 
@@ -49,6 +49,6 @@ The key files detailing the steps in this project are:
 
 ---
 
-## ✅ Final Conclusion
+## Final Conclusion
 
 The **Random Forest Classifier** was selected as the final model due to its superior handling of the data's non-linear, clustered structure. Its performance was confirmed to be both **highly accurate and well-generalized** through a thorough validation process.
