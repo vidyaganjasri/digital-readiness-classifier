@@ -22,7 +22,7 @@ This project predicts the digital transformation readiness of countries using a 
 ---
 
 ## Tools & Technologies
-- Python 3.x, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-- Platform: Google Colab (CPU only)
+- Python, Scikit-learn, Seaborn, Matplotlib
+- Platform: Google Colab
 
 ---
