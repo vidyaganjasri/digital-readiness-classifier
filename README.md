@@ -1,7 +1,4 @@
 
-
-# Classification Modeling Project: Predicting DRS Outcome
-
 ## Project Overview
 
 The core goal of this project was to develop a **robust and highly accurate classification model** to predict the target variable, **DRS**, using key socio-economic indicators such as Education Attainment Index (%) and Internet Penetration (%). The entire process, from data assessment to final validation, was driven by the principle of selecting a model best suited to the data's inherent structure.
