@@ -28,24 +28,11 @@ Based on the confirmed non-linearity, we focused on benchmarking four prominent 
 
 The Random Forest model was then subjected to rigorous checks to ensure its reliability and generalizability.
 
-#### **A. Overfitting Comparison**
-* We compared the model's performance on the **Training Set** (data it learned from) against the held-out **Test Set** (unseen data).
-* The scores were nearly identical, demonstrating that the model **was not overfit**—it successfully learned the underlying pattern without memorizing noise.
-
-#### **B. 5-Fold Cross-Validation**
+#### **A. 5-Fold Cross-Validation**
 * We utilized **5-fold Cross-Validation** as a crucial validation methodology to test the model's **stability**.
 * The scores were highly consistent across all five folds, confirming the model's performance is **stable and robust**, not dependent on a specific data split, thereby proving its effectiveness for real-world predictions.
 
 ---
-
-## Project Files
-
-The key files detailing the steps in this project are:
-
-| File Name | Description |
-| :--- | :--- |
-| `MODEL_SELECTION.ipynb` | Initial data loading, visualization for linearity check, feature preprocessing, and benchmarking of the four non-linear models. |
-| `DM_RANDOM_FOREST.ipynb` | Final optimization, detailed evaluation (metrics, confusion matrix), overfitting comparison, and **5-fold cross-validation** of the selected Random Forest model. |
 
 ---
 
